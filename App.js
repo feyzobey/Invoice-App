@@ -9,7 +9,7 @@ export default function App() {
     </View>
   );
 }
-
+//yorum satırı
 const styles = StyleSheet.create({
   container: {
     flex: 1,
