@@ -9,7 +9,6 @@ export default function App() {
     </View>
   );
 }
-//fezuuu
 const styles = StyleSheet.create({
   container: {
     flex: 1,
