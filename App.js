@@ -16,6 +16,7 @@ const styles = StyleSheet.create({
     backgroundColor: 'springgreen',
     alignItems: 'center',
     justifyContent: 'center',
+    color: 'white',
   },
   text: {
     color: 'blue',
