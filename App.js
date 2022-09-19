@@ -9,14 +9,13 @@ export default function App() {
     </View>
   );
 }
-
+//oadsf
 const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: 'springgreen',
     alignItems: 'center',
     justifyContent: 'center',
-    color:'white',
   },
   text: {
     color: 'blue',
